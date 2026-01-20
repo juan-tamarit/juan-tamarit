@@ -12,6 +12,9 @@ building data-driven systems.
 ##  Featured Projects
 - **Wind Forecasting System** – End-to-end backend pipeline using ERA5 data, MongoDB and Python time-series forecasting
 - **Cronos App** – Cross-platform Flutter app to track productivity and long-term goals
+- **Renewable Energy Spatial Analysis (REI-map-es)** – Collaborative academic
+  geospatial data analysis project exploring the relationship between renewable
+  energy infrastructure, industrial CO₂ emissions and population distribution.
 
 ##  Tech Stack
 Python · SQL · MongoDB · Git · Flutter · Linux
